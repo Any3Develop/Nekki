@@ -1,0 +1,17 @@
+{
+  "name": "Nekki.Common.UIService.Editor",
+  "rootNamespace": "Nekki",
+  "references": [
+    "Nekki.Common.UIService"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "noEngineReferences": false
+}

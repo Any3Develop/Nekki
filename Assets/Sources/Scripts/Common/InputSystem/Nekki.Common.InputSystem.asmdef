@@ -1,0 +1,24 @@
+{
+    "name": "Nekki.Common.InputSystem",
+    "rootNamespace": "Nekki",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.InputSystem.ForUI",
+        "Nekki.Common.Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}

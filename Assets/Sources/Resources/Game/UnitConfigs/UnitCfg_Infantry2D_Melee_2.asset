@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feb047894ffb4462ac6263b0a72487ca, type: 3}
+  m_Name: UnitCfg_Infantry2D_Melee_2
+  m_EditorClassIdentifier: 
+  id: ca25f9df-50b7-40e6-b775-798c56221fba
+  viewPrefab: {fileID: 6829022728249259601, guid: fa5b90de8cd2c89419897daa6e3513c6, type: 3}
+  viewModelPrefab: {fileID: 5546011723820034480, guid: f428cd5b8e0763744a63f0b1c989de39, type: 3}
+  classType: 2
+  behaviorType: 2
+  movementType: 1
+  walkableAreas: 1
+  behavioursSet: {fileID: 11400000, guid: 158d504f469143a499467bfbe34f36e3, type: 2}
+  stats:
+  - name: Armor
+    type: 22
+    value: 0.40695053
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Heath
+    type: 20
+    value: 100
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Damage
+    type: 23
+    value: 35
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveSpeed
+    type: 60
+    value: 2.5
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveTurnSpeed
+    type: 63
+    value: 250
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveAcceleration
+    type: 61
+    value: 100
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveDumpingFactor
+    type: 62
+    value: 0.95
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Heght
+    type: 40
+    value: 3
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Radius
+    type: 41
+    value: 1.2
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Priority
+    type: 42
+    value: 50
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: StartDelay
+    type: 44
+    value: 1
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: IgnoreLayers
+    type: 47
+    value: 512
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0

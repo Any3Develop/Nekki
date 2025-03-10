@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff5574b80f449968cb241307f5896d9, type: 3}
+  m_Name: PlayerCfg_Base
+  m_EditorClassIdentifier: 
+  stats:
+  - name: Heath
+    type: 20
+    value: 100
+    min: 0
+    max: 0
+    useMin: 1
+    useMax: 0
+  - name: Armor
+    type: 22
+    value: 0.85
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Damage
+    type: 23
+    value: 100
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Level
+    type: 26
+    value: 1
+    min: 1
+    max: 0
+    useMin: 1
+    useMax: 0
+  - name: MoveSpeed
+    type: 60
+    value: 12.5
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveTurnSpeed
+    type: 63
+    value: 250
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveAcceleration
+    type: 61
+    value: 100
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: MoveDumpingFactor
+    type: 62
+    value: 0.98
+    min: 0
+    max: 1
+    useMin: 0
+    useMax: 1
+  - name: Heght
+    type: 40
+    value: 3
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: Radius
+    type: 41
+    value: 2.5
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0
+  - name: IgnoreLayers
+    type: 47
+    value: 2048
+    min: 0
+    max: 0
+    useMin: 0
+    useMax: 0

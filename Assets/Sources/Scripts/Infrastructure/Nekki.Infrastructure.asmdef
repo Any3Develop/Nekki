@@ -1,0 +1,28 @@
+{
+    "name": "Nekki.Infrastructure",
+    "rootNamespace": "Nekki",
+    "references": [
+        "Zenject",
+        "Unity.InputSystem.ForUI",
+        "Unity.InputSystem",
+        "Unity.Mathematics",
+        "Unity.Burst",
+        "UniTask",
+        "UniTask.Addressables",
+        "UniTask.DOTween",
+        "Nekki",
+        "Nekki.Common.UIService",
+        "Nekki.Common.Utilities",
+        "Nekki.SerializableDictionary",
+        "Nekki.Common.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
